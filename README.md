@@ -1,5 +1,7 @@
 # Mac Serial Interposer
 
+**These PCBs have been moved [to a new repository](https://github.com/lampmerchant/misc-mac-pcbs)**
+
 PCBs for Macintosh serial port interposers.
 
 See latest release in this repository for gerbers, or buy kits from Tashtari [here](https://ko-fi.com/tashtari/shop).
